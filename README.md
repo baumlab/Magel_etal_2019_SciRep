@@ -1,3 +1,5 @@
+****
+
 Data and R code accompanying:
 
 **Effects of bleaching-associated mass coral mortality on reef structural complexity across a gradient of local disturbance**
@@ -6,9 +8,7 @@ Authors: Jennifer M.T. Magel, John H.R. Burns, Ruth D. Gates, Julia K. Baum
 
 ****
 
-### KI_complexity_data.csv
-
-This file contains the structural complexity, local human disturbance, and benthic composition data for each permanent photoquadrat (PPQ) surveyed in our study. Variables are defined as follows:
+In the **[data](data/)** folder, [KI_complexity_data.csv](data/KI_complexity_data.csv) contains the structural complexity, local human disturbance, and benthic composition data for each permanent photoquadrat (PPQ) surveyed in our study. Variables are defined as follows:
 
 * ```Year``` = Year that the data was collected
 * ```heat_stress``` = Indicates whether the data was collected before (2015) or after (2017) the 2015-2016 El Niño
@@ -27,11 +27,7 @@ This file contains the structural complexity, local human disturbance, and benth
 * ```dplating``` = Density of plating corals within the PPQ (nplating/2D_Area)
 * ```dmassive``` = Density of massive corals within the PPQ (nmassive/2D_Area)
 
-****
-
-### KI_habitat_volume_data.csv
-
-This file contains parameter settings for the ICP registration and 2.5D volume computation processes in CloudCompare, and resulting data from the 3D point cloud comparison. Variables are defined as follows:
+[KI_habitat_volume_data.csv](data/KI_habitat_volune_data.csv) contains parameter settings for the ICP registration and 2.5D volume computation processes in CloudCompare, and resulting data from our 3D point cloud comparison. Variables are defined as follows:
 
 * ```ICP_Overlap``` = Estimated amount of overlap between 2015 and 2017 point clouds (set to 95% to account for slightly different placement of GCPs between years)
 * ```ICP_RSL``` = Random sampling limit (i.e. maximum number of sub-sampled points) for the ICP registration
