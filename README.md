@@ -38,4 +38,4 @@ In the **[data](data/)** folder, [KI_complexity_data.csv](data/KI_complexity_dat
 * ```Vol_Surface``` = Two-dimensional area of the PPQ
 * ```Vol_Change_Total``` = Net change in habitat volume within the PPQ from 2015 to 2017 (Vol_Change_Loss + Vol_Change_Gain)
 * ```Vol_Change_Gain``` = Total gain in habitat volume within the PPQ from 2015 to 2017
-* Vol_Change_Loss = Total loss in habitat volume within the PPQ from 2015 to 2017
+* ```Vol_Change_Loss``` = Total loss in habitat volume within the PPQ from 2015 to 2017
