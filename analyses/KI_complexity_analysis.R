@@ -1,10 +1,10 @@
 
 # Effects of bleaching-associated mass coral mortality on reef structural complexity across a gradient of local human disturbance
 
-# Authors: Jennifer M.T. Magel [1], John H.R. Burns [2], Julia K. Baum [1,2]
+# Authors: Jennifer M.T. Magel [1], John H.R. Burns [2], Ruth D. Gates [2], Julia K. Baum [1,2]
 # Institution: [1] Department of Biology, University of Victoria, Victoria, British Columbia, V8P 5C2, Canada
 # [2] Hawai‘i Institute of Marine Biology, Kāne‘ohe, Hawai‘i, 96744, USA
-# Corresponding Author: Julia K. Baum, Email: baum@uvic.ca
+# Corresponding Author: Jennifer Magel, Email: jenn.magel@gmail.com
 
 
 # Script to fit linear mixed-effects models for coral reef structural complexity metrics and perform model selection 
