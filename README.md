@@ -1,5 +1,7 @@
 ****
 
+[![DOI](https://zenodo.org/badge/159414294.svg)](https://zenodo.org/badge/latestdoi/159414294)
+
 Data and R code accompanying:
 
 **Effects of bleaching-associated mass coral mortality on reef structural complexity across a gradient of local disturbance**
